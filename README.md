@@ -5,9 +5,9 @@
 Resources can be used to prevent overloading
 Traits can be used
 controllers action should be single
-<br>
+
 There Are Some Pros And Cons In This Code
-<br>
+
 #Pros
 <hr>
 <ol>
