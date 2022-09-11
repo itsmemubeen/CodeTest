@@ -9,12 +9,12 @@ controllers action should be single
 There Are Some Pros And Cons In This Code
 
 <h4>Pros</h4>
-<hr>
 <ul>
     <li>Repository pattern is used , which is best for managing code</li>
     <li>Variable Names are proper which makes code easy to understand</li>
     <li>Function Names are proper which makes code easy to understand</li>
 <ul>
+    
 <h4>Cons</h4>
 <ul>
     <li>Unnecessary Variables (like return $user = UserMeta::where('user_id', $user_id)->first()->$key; ) No need of $user here.</li>
